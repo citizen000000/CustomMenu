@@ -14,11 +14,11 @@ You can use `actionsignallevel 2` to send interactions and commands from the new
 That + a customised GameLogo.res file like supplied here = custom menu's :D
 
 TLDR:
-Gamelogo "1" in gameinfo.txt
-Game loads GameLogo.res
-GameLogo.res is a EditablePanel
-Send interactions through `actionsignallevel 2`
-Profit?
+Gamelogo "1" in gameinfo.txt  
+Game loads GameLogo.res  
+GameLogo.res is a EditablePanel  
+Send interactions through `actionsignallevel 2`  
+Profit?  
 
 ## Known issues
 So this doesn't work like most game menus in the way that in Counter-strike: Source theres a hardcoded
@@ -26,8 +26,8 @@ So this doesn't work like most game menus in the way that in Counter-strike: Sou
 
 ## Notes
 -This all stemmed from my pure hatred of the Gamemenu.res list please Valve if you see this just give us
-Gamemenuoverride.res like TF2 i'd give you a kiss
+Gamemenuoverride.res like TF2 i'd give you a kiss.  
 -I'll also probably release another repo with what i've found possible with this new menu at some point
-down the line.
--If you want to hide anything in this menu from in game just use "notmulti "1"" and it works :)
+down the line.  
+-If you want to hide anything in this menu from in game just use "notmulti "1"" and it works :)  
 
